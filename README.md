@@ -10,7 +10,6 @@
 - 💬 Ask me about Aws , Java ,Python
 
 - 📫 How to reach me: rakesh.ganapathy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
