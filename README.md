@@ -1,14 +1,15 @@
 # Hi, I am Rakesh Ganapathy
 
-Backend Engineer focused on building production AI systems — RAG pipelines, LLM agents, and hybrid search.
+Backend Engineer building production AI systems — RAG pipelines, LLM agents, and hybrid search on AWS and Azure.
 
 ---
 
 ## What I Build
 
-- **AI / RAG Systems** — Hybrid search (BM25 + dense vector), cross-encoder reranking, semantic caching, multi-turn conversation, RBAC, RAGAS evaluation
+- **Generative AI & RAG Systems** — Hybrid search (BM25 + dense vector), cross-encoder reranking, semantic caching, multi-turn conversation, RBAC, RAGAS evaluation
+- **Agentic AI** — LangGraph ReAct agents, Microsoft Fabric Agentic AI, multi-agent orchestration
 - **Backend APIs** — FastAPI, LangGraph, pgvector, JWT auth, streaming SSE, rate limiting
-- **Cloud & DevOps** — AWS (ECS, ECR, Lambda, S3, CloudFormation), Docker, Jenkins CI/CD
+- **Cloud & DevOps** — AWS (ECS, ECR, Lambda, S3, CloudFormation), Azure (AI Studio, Fabric), Docker, Jenkins CI/CD
 
 ---
 
@@ -32,12 +33,14 @@ Production-grade RAG system built with FastAPI + LangGraph + pgvector.
 ## Stack
 
 ```
-Languages   Python, Java
-Frameworks  FastAPI, LangGraph, LangChain, Spring Boot
-Databases   pgvector, PostgreSQL
-AI / ML     OpenAI, sentence-transformers, BM25, RAGAS, Langfuse
-Cloud       AWS (ECS, ECR, Lambda, S3, CloudFormation)
-DevOps      Docker, Jenkins, GitHub Actions
+Languages     Python, Java
+Frameworks    FastAPI, LangGraph, LangChain, Spring Boot
+Databases     pgvector, PostgreSQL
+AI / Gen AI   OpenAI, sentence-transformers, BM25, RAGAS, Langfuse
+Agentic AI    LangGraph, Microsoft Fabric Agentic AI, CrewAI
+Cloud AWS     ECS, ECR, Lambda, S3, CloudFormation
+Cloud Azure   AI Studio, Azure Fabric, Blob Storage
+DevOps        Docker, Jenkins, GitHub Actions
 ```
 
 ---
