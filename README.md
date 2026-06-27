@@ -1,6 +1,6 @@
 # Hi, I am Rakesh Ganapathy
 
-Backend Engineer building production AI systems — RAG pipelines, LLM agents, and hybrid search on AWS and Azure.
+Backend Engineer focused on building production AI systems — RAG pipelines, LLM agents, and hybrid search on AWS and Azure.
 
 ---
 
@@ -42,6 +42,13 @@ Cloud AWS     ECS, ECR, Lambda, S3, CloudFormation
 Cloud Azure   AI Studio, Azure Fabric, Blob Storage
 DevOps        Docker, Jenkins, GitHub Actions
 ```
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakeshGanapathy&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshGanapathy&layout=compact&theme=dark&hide_border=true)
 
 ---
 
