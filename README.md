@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Micro services 
 - 👯 I’m looking to collaborate on Brainstroming projects 
 - 💬 Ask me about Aws, Java, Python
-- 📫 How to reach me: rakesh.ganapathy@gmail.com
+- 📫 How to reach me: (https://www.linkedin.com/in/rakesh-ganapathy/)
