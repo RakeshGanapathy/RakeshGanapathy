@@ -45,13 +45,6 @@ DevOps        Docker, Jenkins, GitHub Actions
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakeshGanapathy&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshGanapathy&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/rakesh-ganapathy](https://linkedin.com/in/rakesh-ganapathy)
