@@ -1,6 +1,6 @@
 # Hi, I am Rakesh Ganapathy
 
-Backend Engineer focused on building production AI systems — RAG pipelines, LLM agents, and hybrid search on AWS and Azure.
+Backend Engineer focused on building production AI systems — RAG pipelines, LLM agents, hybrid search, and Kotlin-based AI orchestration — across AWS, Azure, and Android.
 
 ---
 
@@ -8,6 +8,7 @@ Backend Engineer focused on building production AI systems — RAG pipelines, LL
 
 - **Generative AI & RAG Systems** — Hybrid search (BM25 + dense vector), cross-encoder reranking, semantic caching, multi-turn conversation, RBAC, RAGAS evaluation
 - **Agentic AI** — LangGraph ReAct agents, Microsoft Fabric Agentic AI, multi-agent orchestration
+- **AI Orchestration Libraries** — Provider-agnostic Kotlin runtime (KaiOrc), open-sourced and published to Maven Central
 - **Backend APIs** — FastAPI, LangGraph, pgvector, JWT auth, streaming SSE, rate limiting
 - **Cloud & DevOps** — AWS (ECS, ECR, Lambda, S3, CloudFormation), Azure (AI Studio, Fabric), Docker, Jenkins CI/CD
 
@@ -15,7 +16,9 @@ Backend Engineer focused on building production AI systems — RAG pipelines, LL
 
 ## Featured Projects
 
-### [KaiOrc](https://github.com/arkhes-dev/KaiOrc)
+### KaiOrc
+**Repo:** [github.com/arkhes-dev/KaiOrc](https://github.com/arkhes-dev/KaiOrc)
+
 Kotlin library for AI workflow orchestration — published to Maven Central.
 
 - Provider-agnostic orchestration runtime (`AIRuntime` → `Workflow` → `AIProvider`) — swap LLM providers without touching workflow logic
@@ -24,7 +27,9 @@ Kotlin library for AI workflow orchestration — published to Maven Central.
 - Retry policy with backoff, response validation, and short-term conversation memory built in
 - Pure Kotlin/JVM — no Android or DI-framework dependency, wires into any host app's own DI graph
 
-### [Enterprise RAG Knowledge Assistant](https://github.com/RakeshGanapathy/enterprise-rag-assistant)
+### Enterprise RAG Knowledge Assistant
+**Repo:** [github.com/RakeshGanapathy/enterprise-rag-assistant](https://github.com/RakeshGanapathy/enterprise-rag-assistant)
+
 Production-grade RAG system built with FastAPI + LangGraph + pgvector.
 
 - Hybrid BM25 + dense vector search in parallel, merged with Reciprocal Rank Fusion
@@ -42,7 +47,7 @@ Production-grade RAG system built with FastAPI + LangGraph + pgvector.
 ## Stack
 
 ```
-Languages     Python, Java
+Languages     Python, Java, Kotlin
 Frameworks    FastAPI, LangGraph, LangChain, Spring Boot
 Databases     pgvector, PostgreSQL
 AI / Gen AI   OpenAI, sentence-transformers, BM25, RAGAS, Langfuse
@@ -50,6 +55,7 @@ Agentic AI    LangGraph, Microsoft Fabric Agentic AI, CrewAI
 Cloud AWS     ECS, ECR, Lambda, S3, CloudFormation
 Cloud Azure   AI Studio, Azure Fabric, Blob Storage
 DevOps        Docker, Jenkins, GitHub Actions
+Publishing    Gradle, Dokka, Maven Central
 ```
 
 ---
