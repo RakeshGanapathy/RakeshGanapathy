@@ -13,7 +13,16 @@ Backend Engineer focused on building production AI systems — RAG pipelines, LL
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### [KaiOrc](https://github.com/arkhes-dev/KaiOrc)
+Kotlin library for AI workflow orchestration — published to Maven Central.
+
+- Provider-agnostic orchestration runtime (`AIRuntime` → `Workflow` → `AIProvider`) — swap LLM providers without touching workflow logic
+- Published as [`io.github.arkhes-dev:kaiorc`](https://central.sonatype.com/artifact/io.github.arkhes-dev/kaiorc) on Maven Central, Apache 2.0 licensed
+- API reference auto-published via Dokka + [javadoc.io](https://javadoc.io/doc/io.github.arkhes-dev/kaiorc)
+- Retry policy with backoff, response validation, and short-term conversation memory built in
+- Pure Kotlin/JVM — no Android or DI-framework dependency, wires into any host app's own DI graph
 
 ### [Enterprise RAG Knowledge Assistant](https://github.com/RakeshGanapathy/enterprise-rag-assistant)
 Production-grade RAG system built with FastAPI + LangGraph + pgvector.
